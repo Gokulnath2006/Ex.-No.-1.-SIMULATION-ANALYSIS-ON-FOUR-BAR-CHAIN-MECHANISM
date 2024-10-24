@@ -47,9 +47,12 @@
 
 ## Output:
 ![Screenshot (30)](https://github.com/user-attachments/assets/e3b1c829-b454-437a-b9b1-441d3d2aea9f)
-![Screenshot (34)](https://github.com/user-attachments/assets/0ba97b39-f4b1-456b-8a32-733ecb9e4149)
-![Screenshot (36)](https://github.com/user-attachments/assets/63a8314c-066a-46f8-b2d9-a5a08fbf0af0)
 
+
+![Screenshot (34)](https://github.com/user-attachments/assets/0ba97b39-f4b1-456b-8a32-733ecb9e4149)
+
+
+![Screenshot (36)](https://github.com/user-attachments/assets/63a8314c-066a-46f8-b2d9-a5a08fbf0af0)
 
 ### Name: Gokul Nath R
 ### Register Number: 24901115
